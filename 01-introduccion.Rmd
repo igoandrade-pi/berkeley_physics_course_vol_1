@@ -2,12 +2,26 @@
 
 ## Problemas {-}
 
-\begin{enumerate}[label=\arabic*.]
-  \item \textit{O Universo conhecido}. Utilizando a informação dada no texto, estimar as seguintes magnitudes:
-  \begin{enumerate}[label=(\alph*)]
-    \item A massa total do Universo conhecido.
-    \item A densidade média da matéria no Universo.
-    \item A relação entre o raio do universo conhecido e o do próton. (Tomar o raio do próton como $10^{-13}$ cm; massa do próton: $1,7 \times 10^{-29}$ g.)
-  \end{enumerate}
-\end{enumerate}
+1. *O Universo conhecido*. Utilizando a informação dada no texto, estimar as seguintes magnitudes:
+
+  a. A massa total do Universo conhecido.
+    ```{r, include=F}
+    a <- 1
+    b <- 4
+    c <- 4
+    x1 <- (-b + sqrt(b^2 - 4*a*c))/(2*a)
+    ```
+      
+  
+      **Resp.:**
+      \begin{align*}
+        &x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a}\\
+        &x = `r x1`
+      \end{align*}
+  b. A densidade média da matéria no Universo.
+  c. A relação entre o raio do universo conhecido e o do próton. (Tomar o raio do próton como $10^{-13}$ cm; massa do próton: $1,7 \times 10^{-29}$ g.)
+  
+2. *Sinais que atravessam um próton*.
+
+
 

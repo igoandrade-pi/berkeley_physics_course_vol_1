@@ -1,0 +1,13 @@
+# Introducción
+
+## Problemas {-}
+
+\begin{enumerate}[label=\arabic*.]
+  \item \textit{O Universo conhecido}. Utilizando a informação dada no texto, estimar as seguintes magnitudes:
+  \begin{enumerate}[label=(\alph*)]
+    \item A massa total do Universo conhecido.
+    \item A densidade média da matéria no Universo.
+    \item A relação entre o raio do universo conhecido e o do próton. (Tomar o raio do próton como $10^{-13}$ cm; massa do próton: $1,7 \times 10^{-29}$ g.)
+  \end{enumerate}
+\end{enumerate}
+

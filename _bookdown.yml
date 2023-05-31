@@ -1,4 +1,4 @@
-book_filename: "bookdownproj"
+book_filename: "main"
 output_dir: docs
 delete_merged_file: true
 edit: https://github.com/igoandrade-pi/berkeley_physics_course_vol_1/edit/main/%s
